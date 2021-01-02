@@ -5,6 +5,7 @@ go 1.15
 require (
 	github.com/Albert-Zhan/httpc v0.0.0-20190712132051-aed72924b5e6
 	github.com/PuerkitoBio/goquery v1.6.0
+	github.com/smartystreets/goconvey v1.6.4 // indirect
 	github.com/tidwall/gjson v1.6.7
 	github.com/unknwon/goconfig v0.0.0-20200908083735-df7de6a44db8
 	golang.org/x/text v0.3.4
